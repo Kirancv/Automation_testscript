@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ActiTime Automation" duration-ms="177669" started-at="2017-07-18T09:31:33Z" finished-at="2017-07-18T09:34:31Z">
+    <groups>
+    </groups>
+    <test name="ActiTime Automation SCenarios" duration-ms="177669" started-at="2017-07-18T09:31:33Z" finished-at="2017-07-18T09:34:31Z">
+      <class name="com.sgsoftware.actitime.driverscript.DriverScript">
+        <test-method status="PASS" signature="startAutomationSuite()[pri:0, instance:com.sgsoftware.actitime.driverscript.DriverScript@2ac273d3]" name="startAutomationSuite" is-config="true" duration-ms="26" started-at="2017-07-18T15:01:33Z" finished-at="2017-07-18T15:01:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAutomationSuite -->
+        <test-method status="PASS" signature="loadFiles()[pri:0, instance:com.sgsoftware.actitime.driverscript.DriverScript@2ac273d3]" name="loadFiles" is-config="true" duration-ms="4" started-at="2017-07-18T15:01:33Z" finished-at="2017-07-18T15:01:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadFiles -->
+        <test-method status="PASS" signature="executeTestScenarios()[pri:0, instance:com.sgsoftware.actitime.driverscript.DriverScript@2ac273d3]" name="executeTestScenarios" duration-ms="177641" started-at="2017-07-18T15:01:33Z" finished-at="2017-07-18T15:04:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTestScenarios -->
+        <test-method status="PASS" signature="endAutomationSuite()[pri:0, instance:com.sgsoftware.actitime.driverscript.DriverScript@2ac273d3]" name="endAutomationSuite" is-config="true" duration-ms="18" started-at="2017-07-18T15:04:31Z" finished-at="2017-07-18T15:04:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endAutomationSuite -->
+      </class> <!-- com.sgsoftware.actitime.driverscript.DriverScript -->
+    </test> <!-- ActiTime Automation SCenarios -->
+  </suite> <!-- ActiTime Automation -->
+</testng-results>
